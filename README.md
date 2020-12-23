@@ -1,5 +1,8 @@
 # Artigos
 
+"Quando gostamos de programar não nos importamos com a quantidade de horas gastas fazendo isto. Na verdade, nem vemos o tempo passar".
+_(Paula Bonini na live "Como compartilhar conteúdo e inspirar a comunidade DIO")_
+
 ## DIO - Digital Innovation One
 
 1. [_(HEAD detached from XXXXXXX)_](https://web.digitalinnovation.one/articles/head-detached-from-xxxxxxx?back=%2Farticles&page=1&order=oldest) - 21/12/2020 00:39

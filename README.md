@@ -12,3 +12,5 @@ _(Paula Bonini na live "Como compartilhar conteúdo e inspirar a comunidade DIO"
 5. [Recortar Imagem, retirar o fundo e editar no Canva!](https://web.digitalinnovation.one/articles/recortar-imagem-retirar-o-fundo-e-editar-no-canva?back=%2Farticles&page=1&order=oldest) - 24/12/2020 19:04
 6. [DOCKER: o que é e como instalar?](https://web.digitalinnovation.one/articles/docker-o-que-e-e-como-instalar?back=%2Farticles&page=1&order=oldest) - 25/12/2020 17:49
 7. [Lei Geral de Proteção de Dados - LGPD](https://web.digitalinnovation.one/articles/lei-geral-de-protecao-de-dados-lgpd?back=%2Farticles&page=1&order=oldest) - 27/12/2020 21:07
+8. [Octocat é o mascote do GitHub, crie o seu!!!](https://web.digitalinnovation.one/articles/octocat-e-o-mascote-do-github-crie-o-seu?back=%2Farticles&page=1&order=oldest) - 28/12/2020 10:35
+9. [Coletânea de Links afins!!!](https://web.digitalinnovation.one/articles/links?back=%2Farticles&page=1&order=oldest) - 01/01/2021 03:39

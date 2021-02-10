@@ -15,3 +15,4 @@ _(Paula Bonini na live "Como compartilhar conteúdo e inspirar a comunidade DIO"
 08. [Octocat é o mascote do GitHub, crie o seu!!!](https://web.digitalinnovation.one/articles/octocat-e-o-mascote-do-github-crie-o-seu?back=%2Farticles&page=1&order=oldest) - 28/12/2020 10:35
 09. [Coletânea de Links afins!!!](https://web.digitalinnovation.one/articles/links?back=%2Farticles&page=1&order=oldest) - 01/01/2021 03:39
 10. [Site ensina de um jeito legal, a escrita das mensagens dos seus COMMITS](https://web.digitalinnovation.one/articles/site-ensina-de-um-jeito-legal-a-escrita-das-mensagens-dos-seus-commits?back=%2Farticles&page=1&order=oldest) - 07/01/2021 01:38
+11. [O que eu preciso saber para ser um DEV Back-End 2021?!](https://web.digitalinnovation.one/articles/o-que-eu-preciso-saber-para-ser-um-dev-back-end-2021?back=%2Farticles&page=1&order=oldest) - 08/01/2021 22:32

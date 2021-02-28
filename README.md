@@ -17,3 +17,4 @@ _(Paula Bonini na live "Como compartilhar conteúdo e inspirar a comunidade DIO"
 10. [Site ensina de um jeito legal, a escrita das mensagens dos seus COMMITS](https://web.digitalinnovation.one/articles/site-ensina-de-um-jeito-legal-a-escrita-das-mensagens-dos-seus-commits?back=%2Farticles&page=1&order=oldest) - 07/01/2021 01:38
 11. [O que eu preciso saber para ser um DEV Back-End 2021?!](https://web.digitalinnovation.one/articles/o-que-eu-preciso-saber-para-ser-um-dev-back-end-2021?back=%2Farticles&page=1&order=oldest) - 08/01/2021 22:32
 12. [API - "Interface de Programação de Aplicativos"](https://web.digitalinnovation.one/articles/api-interface-de-programacao-de-aplicativos?back=%2Farticles&page=1&order=oldest) - 26/01/2021 17:12
+13. [Pesquisa Salarial de Programadores Brasileiros 2020-2021](https://web.digitalinnovation.one/articles/art013-pesquisa-salarial-de-programadores-brasileiros-2020-2021?back=%2Farticles&page=1&order=oldest) - 23/02/2021 15:32
